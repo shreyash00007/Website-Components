@@ -10,5 +10,5 @@
 ### Web-components
 >![](https://github.com/shreyash00007/Website-Components/blob/main/Web-compoents.jpg)
 
-### Design
+### Design Types
 >![](https://github.com/shreyash00007/Website-Components/blob/main/design.jpg)
