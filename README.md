@@ -1,7 +1,7 @@
 # Website-Components
 ## Web-Components basic
 
-### Layout
+### Layout -
 >![](https://github.com/shreyash00007/Website-Components/blob/main/Layout.png)
 
 ### CSS BOX
