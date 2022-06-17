@@ -7,7 +7,7 @@
 ### CSS BOX -
 >![](https://github.com/shreyash00007/Website-Components/blob/main/css%20box.png)
 
-### Web-components
+### Web-components -
 >![](https://github.com/shreyash00007/Website-Components/blob/main/Web-compoents.jpg)
 
 ### Design Types
